@@ -1,6 +1,9 @@
 Hi,
 
 Hope you are having a lovley day. I would first like to apologise for my variable names as I am dyslexic and have probably made a lot of spelling mistakes in the names.
+This code was created as coursework for a computational physics course at Imperial College London. 
+The shortened report submitted with the code can also be found here; A huge amount of design, implementation testing, validation, criticism of the model and references have been cut due to a word limit on the work.
+Please message me if you have any questions.
 
 In terms of using the code:
 
